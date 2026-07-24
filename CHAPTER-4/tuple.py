@@ -69,3 +69,4 @@ print("Count of 20:", count_20)
 #index
 index_30 = my_tuple.index(30)
 print("Index of 30:", index_30)
+
