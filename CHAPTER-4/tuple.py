@@ -59,3 +59,13 @@ print(result)        # (15, 5, 50)
 
 s, d, m = calc(10,5)
 print(s, d, m)
+
+my_tuple = (10, 20, 30, 40, 50, 60, 70, 80, 90, 100)
+# pop
+  # ❌ ERROR tuples are immutable
+#count
+count_20 = my_tuple.count(20)
+print("Count of 20:", count_20)
+#index
+index_30 = my_tuple.index(30)
+print("Index of 30:", index_30)

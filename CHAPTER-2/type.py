@@ -19,3 +19,4 @@ print(type(a))
 x=input("enter value of x:")
 
 print(type(x))
+
